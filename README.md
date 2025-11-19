@@ -1,16 +1,20 @@
-# Zomato-Data-Analysis
-Overview
-This project analyzes Zomato restaurant data using Python to gain insights into customer preferences, restaurant ratings, and pricing trends.
-The dataset is processed, cleaned, and visualized to extract meaningful conclusions.
+# Zomato-Data-Analysis (Python)
 
-Features
-Data cleaning and preprocessing.
-Exploratory Data Analysis (EDA) to identify key trends.
-Visualization of restaurant ratings, cuisines, and price distributions.
-Identification of the best-rated and most popular restaurants.
-Technologies Used
-Python
-Pandas (for data manipulation)
-NumPy (for numerical computations)
-Matplotlib / Seaborn (for data visualization)
-Jupyter Notebook (for analysis)
+## 📌 Overview
+
+This project analyzes Zomato restaurant data using Python to uncover insights into customer preferences, restaurant ratings, pricing trends, and overall market behavior. The dataset is processed, cleaned, and visualized to extract meaningful and actionable conclusions.
+
+## ⭐ Features
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA) to identify key trends
+* Visualizations of ratings, cuisines, prices, and restaurant distribution
+* Identification of best‑rated and most popular restaurants
+
+## 🛠 Technologies Used
+
+* **Python**
+* **Pandas** – Data manipulation
+* **NumPy** – Numerical computations
+* **Matplotlib / Seaborn** – Data visualization
+* **Jupyter Notebook** – Interactive analysis environment
